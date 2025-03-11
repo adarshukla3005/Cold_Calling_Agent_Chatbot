@@ -19,9 +19,6 @@ This is an AI-powered cold-calling assistant that helps with **demo scheduling, 
 - **Data Storage**:             ✅  |Stores scheduled meetings, interview responses, and follow-up details in JSON files.  
 - **Streamlit UI**:             ✅  |Interactive web-based interface for user interaction.  
 - **Flask API Backend**:        ✅  |Handles AI logic and integrates with external services.
-- **Fine Tuning the Model**    ✅❌ | Did basic finetuning did not use some huge dataset
-- **Mongo DB**:                 ❌  |Couldn't implement due to lack of time.
-- **Deployment**:               ❌  |Could not deploy on docker
 
 ## Project Structure  
 
@@ -127,7 +124,3 @@ This will open the web UI in your browser and start the Flask server on http://1
 - IIT Roorkee
 - Email: adarshukla3005@gmail.com
 - Contact: +91-8707446780
-
-
-
-
